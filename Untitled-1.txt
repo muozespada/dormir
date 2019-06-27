@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+    <title>Converse</title>
+  </head>
+  <body>
+      <ul>
+          <ol>
+                incrementa la creatividad
+
+Cuando el cerebro está descansado y la producción de hormonas está equilibrada, la memoria funciona a la perfección. 
+          </ol>
+
+          <ol>
+                Ayuda a perder peso
+
+                La falta de sueño hace que los adipocitos (células grasas) liberen menos leptina, la hormona supresora del apetito. El insomnio provoca, además, que el estómago libere más grelina (la hormona del apetito).
+                
+          </ol>
+          Te hace estar más sano
+
+          Nuestro sistema inmunitario emplea el tiempo de sueño para regenerarse, lo que le permite luchar con eficacia contra contra las toxinas y los gémenes que de forma continua nos amenazan. Con un sistema inmunitario débil tenemos muchas menos posibilidades de superar con éxito las infecciones.
+          
+          <ol>
+                Mejora la memoria
+
+Dormir fortalece las conexiones neuronales. Durante la fase REM del sueño, el hipocampo, el almacén de nuestra memoria, se restaura, transformando la memoria a corto plazo en memoria a largo plazo.
+
+        </ol>
+
+          <ol>
+                Protege el corazón
+
+                los insomnes tienen tres veces más posibilidades de sufrir una insuficiencia cardíaca que los que duermen a pierna suelta. El insomnio aumenta los niveles en sangre de las hormonas del estrés, lo que aumenta la tensión arterial y la frecuencia cardíaca. Otros estudios también ligan el insomnio a tener el colesterol más alto.
+                
+         </ol>
+
+
+      </ul>
+    
+        
+  </body>
